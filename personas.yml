@@ -1,0 +1,7 @@
+personas:
+  - name: Katarina Vogel
+    status: active
+  - name: Persona 2
+    status: pending
+  - name: Persona 3
+    status: pending
